@@ -18,11 +18,8 @@ right_bat_y = 100
 ball_x = 400
 ball_y = 200
 
-base_ball_speed_x = 4
-base_ball_speed_y = 4
-
-ball_speed_x = base_ball_speed_x
-ball_speed_y = base_ball_speed_y
+ball_speed_x = 4
+ball_speed_y = 4
 
 while running:
 
