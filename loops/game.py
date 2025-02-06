@@ -1,7 +1,7 @@
 import pygame
 
 
-class GameWindow:
+class Game:
 
     instance = None
 
